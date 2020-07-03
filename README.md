@@ -124,4 +124,4 @@ public class UsuarioResourceTest extends BrabankapiApplicationTests {
 
 - Rodar o teste
 
-[Siga as instruções da aula](https://youtu.be/5qYq94kA7GA)
+[Siga as instruções da aula](https://youtu.be/Y4_LmPhx1Jc)
